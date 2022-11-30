@@ -1,2 +1,2 @@
-# variavies
+# variaveis
 lista-variaveis
